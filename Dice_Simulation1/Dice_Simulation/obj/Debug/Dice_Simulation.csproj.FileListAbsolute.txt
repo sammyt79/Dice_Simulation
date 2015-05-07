@@ -1,0 +1,9 @@
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\bin\Debug\Dice_Simulation.exe.config
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\bin\Debug\Dice_Simulation.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\bin\Debug\Dice_Simulation.pdb
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.MainForm.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.Properties.Resources.resources
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.csproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.exe
+C:\Users\Samuel\Documents\Visual Studio 2013\Projects\POS409\Dice_Simulation\Dice_Simulation\obj\Debug\Dice_Simulation.pdb
